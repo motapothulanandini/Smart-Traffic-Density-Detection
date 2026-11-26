@@ -35,9 +35,7 @@ Based on the detected vehicle count and traffic density, the system dynamically 
 - GitHub
 
 ## 🏗️ Project Structure
-
 Smart-Traffic-Density-Detection/
-
 │
 ├── dataset/
 │   └── videos/
@@ -51,7 +49,7 @@ Smart-Traffic-Density-Detection/
 │   └── test_controller.py
 │
 ├── outputs/
-│   └── output.mp4
+│   └── outpt.mp4
 │
 └── README.md
 
