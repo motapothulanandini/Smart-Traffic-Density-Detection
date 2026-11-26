@@ -37,6 +37,7 @@ Based on the detected vehicle count and traffic density, the system dynamically 
 ## 🏗️ Project Structure
 
 Smart-Traffic-Density-Detection/
+
 │
 ├── dataset/
 │   └── videos/
